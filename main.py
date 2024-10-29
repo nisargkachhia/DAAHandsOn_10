@@ -1,4 +1,3 @@
-# main.py
 from bst import BinarySearchTree
 from avl import AVLTree
 from rbt import RedBlackTree
